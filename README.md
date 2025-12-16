@@ -1,4 +1,6 @@
 # ASCII Converter e8515c
+![60e7d36b-58f5-4833-a1d3-5c258bdbde2f](https://github.com/user-attachments/assets/9ad3c9ae-ccda-42f6-a763-aff4a21883dd)
+
 
 A **high-quality image → ASCII art converter** focused on **maximum visual clarity**, **anime-style images**, and **fine-grained control**.  
 Built with a custom rendering pipeline that prioritizes **edge definition**, **gamma-correct brightness**, and **adaptive character selection**.
